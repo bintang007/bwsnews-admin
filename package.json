@@ -8,7 +8,16 @@
     "start": "next start"
   },
   "dependencies": {
+    "@material-ui/core": "^4.11.2",
+    "@material-ui/data-grid": "^4.0.0-alpha.12",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/lab": "^4.0.0-alpha.57",
+    "@material-ui/x-grid-data-generator": "^4.0.0-alpha.11",
+    "clsx": "^1.1.1",
+    "mongoose": "^5.11.8",
     "next": "10.0.3",
+    "next-auth": "^3.1.0",
+    "prop-types": "^15.7.2",
     "react": "17.0.1",
     "react-dom": "17.0.1"
   }
